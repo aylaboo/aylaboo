@@ -18,4 +18,4 @@ aylaboo@github
 
 <br><br><br><br>
 ## **Status**
-![Snake animation](https://github.com/aylaboo/aylaboo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/aylaboo/aylaboo/blob/output/github-contribution-grid-snake.svg?palette=github-dark)
