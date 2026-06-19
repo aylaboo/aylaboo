@@ -1,16 +1,21 @@
-## Hi there 👋
+![Preview](./img/bg.png)
 
-<!--
-**aylaboo/aylaboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cutive+Mono&pause=1000&color=BFA9F1&center=true&vCenter=true&width=450&lines=Hello,+world!+Hello,+Charlotte!)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<p>
+<img align="left" src="img/icon.gif" width="300" /> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+aylaboo@github
+-------------------------
+🏫 UFFS - Chapecó
+📜 Entusiasta em programação competitiva e buscando aprender cybersec futuramente
+💫 Linguagens: Python, C++, JavaScript
+🔮 linux ricing / rpg / música / fotografia
+🎵 shoegaze / breakcore / experimental
+```
+</p>
+
+<br><br><br><br>
+## **Status**
+![Snake animation](https://github.com/aylaboo/aylaboo/blob/output/github-contribution-grid-snake.svg)
